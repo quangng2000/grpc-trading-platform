@@ -1,0 +1,15 @@
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\user-service\src\main\java\com\quang\user\config\ServerConfiguration.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\user-service\src\main\java\com\quang\user\entity\PortfolioItem.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\user-service\src\main\java\com\quang\user\entity\User.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\user-service\src\main\java\com\quang\user\exceptions\InsufficientBalanceException.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\user-service\src\main\java\com\quang\user\exceptions\InsufficientSharesException.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\user-service\src\main\java\com\quang\user\exceptions\UnknownTickerException.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\user-service\src\main\java\com\quang\user\exceptions\UnknownUserException.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\user-service\src\main\java\com\quang\user\repository\PortfolioItemRepository.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\user-service\src\main\java\com\quang\user\repository\UserRepository.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\user-service\src\main\java\com\quang\user\service\advice\ServiceExceptionHandler.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\user-service\src\main\java\com\quang\user\service\handler\StockTradeRequestHandler.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\user-service\src\main\java\com\quang\user\service\handler\UserInformationRequestHandler.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\user-service\src\main\java\com\quang\user\service\UserService.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\user-service\src\main\java\com\quang\user\UserServiceApplication.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\user-service\src\main\java\com\quang\user\util\EntityMessageMapper.java

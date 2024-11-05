@@ -1,0 +1,11 @@
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\aggregator-service\src\main\java\com\quang\aggregator\AggregatorServiceApplication.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\aggregator-service\src\main\java\com\quang\aggregator\config\ApplicationConfiguration.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\aggregator-service\src\main\java\com\quang\aggregator\controller\advice\ApplicationExceptionHandler.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\aggregator-service\src\main\java\com\quang\aggregator\controller\StockController.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\aggregator-service\src\main\java\com\quang\aggregator\controller\TradeController.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\aggregator-service\src\main\java\com\quang\aggregator\controller\UserController.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\aggregator-service\src\main\java\com\quang\aggregator\dto\PriceUpdateDto.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\aggregator-service\src\main\java\com\quang\aggregator\service\PriceUpdateListener.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\aggregator-service\src\main\java\com\quang\aggregator\service\PriceUpdateSubscriptionInitializer.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\aggregator-service\src\main\java\com\quang\aggregator\service\TradeService.java
+C:\Users\nguye\OneDrive\Documents\03-grpc-trading-platform\aggregator-service\src\main\java\com\quang\aggregator\service\UserService.java

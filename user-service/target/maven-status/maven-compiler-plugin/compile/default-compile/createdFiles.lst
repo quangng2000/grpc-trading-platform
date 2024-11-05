@@ -1,0 +1,15 @@
+com\quang\user\exceptions\InsufficientBalanceException.class
+com\quang\user\repository\UserRepository.class
+com\quang\user\repository\PortfolioItemRepository.class
+com\quang\user\exceptions\InsufficientSharesException.class
+com\quang\user\exceptions\UnknownUserException.class
+com\quang\user\util\EntityMessageMapper.class
+com\quang\user\entity\PortfolioItem.class
+com\quang\user\service\handler\StockTradeRequestHandler.class
+com\quang\user\entity\User.class
+com\quang\user\UserServiceApplication.class
+com\quang\user\config\ServerConfiguration.class
+com\quang\user\service\handler\UserInformationRequestHandler.class
+com\quang\user\exceptions\UnknownTickerException.class
+com\quang\user\service\advice\ServiceExceptionHandler.class
+com\quang\user\service\UserService.class
